@@ -17,7 +17,7 @@ We'll manage our codebase with GIT and Github. Maybe we'll take at Github Copilo
 Some more important web concepts: web workers, service workers, promises, async/await, callbacks, object destructuring, functional programming, json web tokens (jwt), cookies, REST (representational state transfer), http(s), ws(s) - web sockets, JSON (javascript object notation), arrow functions, html, css, web components, TDD (test driven development).
 
 To study:
- - Github repo:
+ - Github repo: https://github.com/dragospaulpop/csb
  - Vue.js docs: https://v2.vuejs.org/v2/guide/
  - Vuetify.js 2 docs: https://vuetifyjs.com/en/introduction/why-vuetify/
 
