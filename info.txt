@@ -20,6 +20,7 @@ To study:
  - Github repo: https://github.com/dragospaulpop/csb
  - Vue.js docs: https://v2.vuejs.org/v2/guide/
  - Vuetify.js 2 docs: https://vuetifyjs.com/en/introduction/why-vuetify/
+ - Live Server VSCode extension: Live Server
 
 
 
