@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+div {
+  margin: 5em auto 0 auto;
+  border: thin solid black;
+  width: 50%;
+  height: 50vh;
+  overflow: auto;
+}
+
+form {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 2em;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}

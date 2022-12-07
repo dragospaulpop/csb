@@ -1,0 +1,26 @@
+FLUTTER:
+ - Google developed technology used for mainly building native Android and iOS apps
+ - uses the DART programming language; is very similar to JavaScript and TypeScript; strict typed
+ - uses a reactive approch
+ - really keen on using a composition approach; likes to use components
+ - uses a single codebase to build native Android and iOS apps, but also web apps
+
+What we'll be doing:
+We'll be studying web technologies to build Progressive Web Apps (PWAs).
+We'll be using Vue.js alongside Vuetify.js (component framework) to build frontends/user interfaces.
+We'll also be studying about reactivity as a develoment style / approach / methodology.
+We'll be using ESNext (that means JavaScript, mainly concepts from EcmaScript6/ES2015 and ES7 - promises and async/await).
+We'll also be using Node.js and NPM as both tools for our frontend development adventures but also as tools for building backends.
+We'll be using Feathers.js as a backend framework and we'll be studing about real-time databases and web sockets (mainly through Socket.io).
+Our coding tool will be Visual Studio Code with a bunch of extensions.
+We'll manage our codebase with GIT and Github. Maybe we'll take at Github Copilot.
+Some more important web concepts: web workers, service workers, promises, async/await, callbacks, object destructuring, functional programming, json web tokens (jwt), cookies, REST (representational state transfer), http(s), ws(s) - web sockets, JSON (javascript object notation), arrow functions, html, css, web components, TDD (test driven development).
+
+To study:
+ - Github repo:
+ - Vue.js docs: https://v2.vuejs.org/v2/guide/
+ - Vuetify.js 2 docs: https://vuetifyjs.com/en/introduction/why-vuetify/
+
+
+
+

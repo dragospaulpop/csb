@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Example</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- build a simple calculator app -->
+  <!-- 2 number inputs -->
+  <!-- 1 operation dropdown -->
+  <!-- 1 compute button -->
+  <!-- 1 result paragraph -->
+  <!-- eg.: 2 + 2 = 4 -->
+  <!-- eg.: 2 * 3 = 6 -->
+
+  <div>
+    <form>
+      <label for="operand1">
+        Operand 1:
+        <input type="number" id="operand1">
+      </label>
+      <label for="operand2">
+        Operand 2:
+        <input type="number" id="operand2">
+      </label>
+      <label for="operator">
+        Operation:
+        <select id="operator">
+          <option value="+">Addition</option>
+          <option value="-">Substraction</option>
+          <option value="*">Multiplication</option>
+          <option value="/">Division</option>
+        </select>
+      </label>
+      <button id="compute">Compute</button>
+      <p id="result">Result: </p>
+    </form>
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>
